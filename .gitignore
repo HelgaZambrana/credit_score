@@ -1,4 +1,5 @@
 env/
+data/
 *.csv
 *.xlsx
 .DS_Store
